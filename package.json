@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Guilherme-qa1/prova-cypress-ui#readme",
   "dependencies": {
+    "@faker-js/faker": "^10.3.0",
     "cypress": "^15.12.0"
   }
 }
