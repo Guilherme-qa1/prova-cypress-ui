@@ -1,5 +1,4 @@
 /// <reference types = "cypress"/>
-const { faker } = require('@faker-js/faker');
 
 context('Funcionalidade Login', () => {
 
