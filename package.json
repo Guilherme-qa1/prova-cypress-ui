@@ -1,0 +1,24 @@
+{
+  "name": "prova-cypress-ui",
+  "version": "1.0.0",
+  "description": "Colocado em prática tudo o que foi ensinado no primeiro modulo de testes automatizados (CYPRESS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guilherme-qa1/prova-cypress-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Guilherme-qa1/prova-cypress-ui/issues"
+  },
+  "homepage": "https://github.com/Guilherme-qa1/prova-cypress-ui#readme",
+  "dependencies": {
+    "cypress": "^15.12.0"
+  }
+}
